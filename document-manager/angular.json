@@ -117,7 +117,7 @@
         "build": {
           "builder": "@angular-devkit/build-angular:ng-packagr",
           "options": {
-            "project": "projects/document-dashboard/ng-package.json"
+            "project": "projects/document-dashboard/ng-package.json",
           },
           "configurations": {
             "production": {
